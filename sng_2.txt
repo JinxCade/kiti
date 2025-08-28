@@ -1,0 +1,1 @@
+{"name":"Kitty","desc":"Project Sekai song","2d":"true","3d":"false","mv":"false","instrumental":"true","lengthed":"true","short":"true","icon":"","filename":"Kitty","downloaded":"true","url_path":"gm_mus/pjsk/","storage_usage_audio_mb":"6.84","storage_usage_video_mb":"23.9","storage_total_all_mb":"30.7"}
